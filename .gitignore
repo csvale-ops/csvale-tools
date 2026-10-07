@@ -1,0 +1,18 @@
+# macOS / Linux / Windows local editor files
+.DS_Store
+Thumbs.db
+
+# Node / package artifacts
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Output or build files
+/dist/
+/build/
+
+# Logs
+*.log
