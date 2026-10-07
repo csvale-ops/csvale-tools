@@ -6,5 +6,13 @@
     "version": "1.0.0",
     "platform": "Windows",
     "downloadUrl": "https://github.com/csvale-ops/csvale-tools/releases/download/v1.0.0/add-host-windows.ps1"
+  },
+  {
+    "slug": "openvpn",
+    "name": "OpenVPN for Windows",
+    "description": "Installer OpenVPN-2.6.7-I001-amd64",
+    "version": "2.6.7-I001-amd64",
+    "platform": "Windows",
+    "downloadUrl": "https://github.com/csvale-ops/csvale-tools/releases/download/v2.6.7-I001-amd64/OpenVPN-2.6.7-I001-amd64.msi"
   }
 ]
