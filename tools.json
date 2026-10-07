@@ -3,9 +3,9 @@
     "slug": "add-host-windows",
     "name": "Windows Hosts Manager",
     "description": "PowerShell script to easily manage Windows hosts file entries. Add, view, and manage localhost and custom host mappings with a simple menu interface.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "platform": "Windows",
-    "downloadUrl": "https://github.com/csvale-ops/csvale-tools/releases/download/v1.0.0/add-host-windows.ps1"
+    "downloadUrl": "https://github.com/csvale-ops/csvale-tools/releases/download/v2.0.0/add-host-windows-2.0.0.bat"
   },
   {
     "slug": "openvpn",
