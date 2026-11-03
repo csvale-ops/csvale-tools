@@ -10,7 +10,7 @@
   },
   {
     "slug": "openvpn",
-    "name": "Free OpenVPN for Windows",
+    "name": "OpenVPN for Windows",
     "description": "Installer OpenVPN-2.6.7-I001-amd64",
     "version": "2.6.7-I001-amd64",
     "platform": "Windows",
